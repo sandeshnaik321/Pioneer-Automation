@@ -13,8 +13,8 @@ This project is a mobile automation testing framework designed to test Android a
 - **CI/CD:** Jenkins
 
 👤 Creator
-Name: Your Full Name
-GitHub: @your-username
-Email: your.email@example.com
-LinkedIn: your-linkedin-profile
+Name: Sandesh Naik
+GitHub: @sandeshnaik321
+Email: sandesh_naik@pioneer.com.sg
+LinkedIn: Sandesh Naik
 
