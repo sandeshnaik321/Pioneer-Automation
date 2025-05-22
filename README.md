@@ -12,9 +12,10 @@ This project is a mobile automation testing framework designed to test Android a
 - **Device Farm:** Local Devices
 - **CI/CD:** Jenkins
 
-👤 Creator
-Name: Sandesh Naik
-GitHub: @sandeshnaik321
-Email: sandesh_naik@pioneer.com.sg
-LinkedIn: Sandesh Naik
+# 👤 Creator
+Name: Sandesh Naik  
+GitHub: [@sandeshnaik321](https://github.com/sandeshnaik321)  
+Email: sandesh_naik@pioneer.com.sg  
+LinkedIn: [Sandesh Naik](https://www.linkedin.com/in/sandesh-naik)
+
 
